@@ -12,52 +12,52 @@
 <!--game code-->
 <section class="memory-game">
     <div class="memory-card" data-framework="braai-pack">
-        <img class="front-face" src="image/braai-pack.jpg" alt="Braai-Pack" />
-        <img class="back-face" src="image/prsa.jpg" alt="Rem-Black" />
+        <img class="front-face" src="image/castle.png" alt="castle" />
+        <img class="back-face" src="image/board.jpg" alt="chess-board" />
     </div>
     <div class="memory-card" data-framework="braai-pack">
-        <img class="front-face" src="image/braai-pack.jpg" alt="Braai-Pack" />
-        <img class="back-face" src="image/prsa.jpg" alt="Rem-Black" />
+        <img class="front-face" src="image/castle.png" alt="castle" />
+        <img class="back-face" src="image/board.jpg" alt="chess-board" />
     </div>
     <div class="memory-card" data-framework="castle-lite">
-        <img class="front-face" src="image/castle-lite.jpg" alt="Castle-Lite" />
-        <img class="back-face" src="image/prsa.jpg" alt="Rem-Black" />
+        <img class="front-face" src="image/queen.png" alt="queen" />
+        <img class="back-face" src="image/board.jpg" alt="chess-board" />
     </div>
     <div class="memory-card" data-framework="castle-lite">
-        <img class="front-face" src="image/castle-lite.jpg" alt="Castle-Lite" />
-        <img class="back-face" src="image/prsa.jpg" alt="Rem-Black" />
+        <img class="front-face" src="image/queen.png" alt="queen" />
+        <img class="back-face" src="image/board.jpg" alt="chess-board" />
     </div>
     <div class="memory-card" data-framework="castle-larger">
-        <img class="front-face" src="image/castle-larger.jpg" alt="Castle-Larger" />
-        <img class="back-face" src="image/prsa.jpg" alt="Rem-Black" />
+        <img class="front-face" src="image/king.png" alt="king" />
+        <img class="back-face" src="image/board.jpg" alt="chess-board" />
     </div>
     <div class="memory-card" data-framework="castle-larger">
-        <img class="front-face" src="image/castle-larger.jpg" alt="Castle-Larger" />
-        <img class="back-face" src="image/prsa.jpg" alt="Rem-Black" />
+        <img class="front-face" src="image/king.png" alt="king" />
+        <img class="back-face" src="image/board.jpg" alt="chess-board" />
     </div>
     <div class="memory-card" data-framework="spice-rice">
-        <img class="front-face" src="image/spice-rice.jpg" alt="Spice-Rice" />
-        <img class="back-face" src="image/prsa.jpg" alt="Rem-Black" />
+        <img class="front-face" src="image/knight.png" alt="knight" />
+        <img class="back-face" src="image/board.jpg" alt="chess-board" />
     </div>
     <div class="memory-card" data-framework="spice-rice">
-        <img class="front-face" src="image/spice-rice.jpg" alt="Spice-Rice" />
-        <img class="back-face" src="image/prsa.jpg" alt="Rem-Black" />
+        <img class="front-face" src="image/knight.png" alt="knight" />
+        <img class="back-face" src="image/board.jpg" alt="chess-board" />
     </div>
     <div class="memory-card" data-framework="wine-black">
-        <img class="front-face" src="image/wine-black.png" alt="Wine-Black" />
-        <img class="back-face" src="image/prsa.jpg" alt="Rem-Black" />
+        <img class="front-face" src="image/pawn.png" alt="pawn" />
+        <img class="back-face" src="image/board.jpg" alt="chess-board" />
     </div>
     <div class="memory-card" data-framework="wine-black">
-        <img class="front-face" src="image/wine-black.png" alt="Wine-Black" />
-        <img class="back-face" src="image/prsa.jpg" alt="Rem-Black" />
+        <img class="front-face" src="image/pawn.png" alt="pawn" />
+        <img class="back-face" src="image/board.jpg" alt="chess-board" />
     </div>
     <div class="memory-card" data-framework="train">
-        <img class="front-face" src="image/train.jpg" alt="Train" />
-        <img class="back-face" src="image/prsa.jpg" alt="Rem-Black" />
+        <img class="front-face" src="image/bishop.png" alt="bishop" />
+        <img class="back-face" src="image/board.jpg" alt="chess-board" />
     </div>
     <div class="memory-card" data-framework="train">
-        <img class="front-face" src="image/train.jpg" alt="Train" />
-        <img class="back-face" src="image/prsa.jpg" alt="Rem-Black" />
+        <img class="front-face" src="image/bishop.png" alt="bishop" />
+        <img class="back-face" src="image/board.jpg" alt="chess-board" />
     </div>
 </section>
 
